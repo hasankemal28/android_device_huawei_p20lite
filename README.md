@@ -1,0 +1,2 @@
+# android_device_huawei_p20lite
+android_device_huawei_HI6250
